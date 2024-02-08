@@ -27,3 +27,4 @@ Skills: Linux/Windows/MacOS
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=rubixcube199)  
 
+<img src="https://komarev.com/ghpvc/?username=rubixcube199&color=45707a&style=flat-square" alt="GitHub page views">
