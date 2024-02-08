@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, Wanderer! I'm Crow, I am from the USA. 👋
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubixcube199)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **rubixcube199/rubixcube199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
