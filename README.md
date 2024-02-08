@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Crow
 #### I am a Techie from America
-![I am a Techie from America](https://cdn.discordapp.com/attachments/1166174277393993738/1170694139470413884/2700d6f5505c41ec96ed10798d9f86ac.gif?ex=65d1f161&is=65bf7c61&hm=8df11ea8a98a3a3c795ab949b46e8f4b60853c550aa16e8652418cd0183d21cf&)
+![I am a Techie from America]
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubixcube199)](https://github.com/anuraghazra/github-readme-stats)
 
