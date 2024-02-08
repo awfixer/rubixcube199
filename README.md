@@ -1,6 +1,5 @@
 ### Hi there 👋, My name is Crow
 #### I am a Techie from America
-![I am a Techie from America]
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubixcube199)](https://github.com/anuraghazra/github-readme-stats)
 
