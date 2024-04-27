@@ -17,9 +17,3 @@ currently working on [AxylOS](https://axyl.org)
 This is Telemetry so I see if You looked:
 
 <img src="https://komarev.com/ghpvc/?username=rubixcube199&color=45707a&style=flat-square" alt="GitHub page views">
-
-
-
-Security LLC Discord Stats:
-<iframe src="https://discord.com/widget?id=1181251812293095424&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-
